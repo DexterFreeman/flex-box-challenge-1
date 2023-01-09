@@ -96,7 +96,7 @@
  .level-eight .field {
     display: flex;
     flex-wrap: wrap-reverse;
-    flex-direction: row-reverse;
+    flex-direction: row;
    
  }
 
